@@ -1,0 +1,20 @@
+/* styles.css */
+
+* {
+    background-color: antiquewhite;
+}
+
+h1, h2, h3 {
+    color: teal;
+    width: 40%;
+    padding: 15px;
+}
+
+img {
+    height: auto;
+    width: 25%;
+}
+
+p {
+    color: navy;
+}
